@@ -26,7 +26,15 @@ debug.log
 
 *.html
 
-Question1.html
-Question2.html
-CHW2_97102463.html
-CHW3.html
+Question1_moslemi.html
+Question2_moslemi.html
+CHW2_97102463_moslemi.html
+CHW3_moslemi.html
+
+
+/Question1_moslemi.html
+/Question2_moslemi.html
+/CHW2_97102463_moslemi.html
+/CHW3_moslemi.html
+
+/*.html
